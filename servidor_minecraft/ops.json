@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "c77f79dc-e58b-3c88-9393-3ba6d3834b9c",
+    "name": "skull",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
