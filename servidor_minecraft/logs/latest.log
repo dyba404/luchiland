@@ -1,0 +1,41 @@
+[22:11:51] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:11:52] [ServerMain/INFO]: No existing world data, creating new world
+[22:11:53] [ServerMain/INFO]: Loaded 1175 recipes
+[22:11:53] [ServerMain/INFO]: Loaded 1276 advancements
+[22:11:53] [Server thread/INFO]: Starting minecraft server version 1.20.6
+[22:11:53] [Server thread/INFO]: Loading properties
+[22:11:53] [Server thread/INFO]: Default game type: SURVIVAL
+[22:11:53] [Server thread/INFO]: Generating keypair
+[22:11:53] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:11:54] [Server thread/INFO]: Using epoll channel type
+[22:11:54] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:11:54] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:11:54] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:11:54] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:11:54] [Server thread/INFO]: Preparing level "world"
+[22:11:59] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:11:59] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[22:12:00] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[22:12:00] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[22:12:01] [Worker-Main-2/INFO]: Preparing spawn area: 10%
+[22:12:01] [Worker-Main-1/INFO]: Preparing spawn area: 14%
+[22:12:02] [Worker-Main-2/INFO]: Preparing spawn area: 22%
+[22:12:02] [Worker-Main-3/INFO]: Preparing spawn area: 34%
+[22:12:03] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[22:12:03] [Worker-Main-2/INFO]: Preparing spawn area: 59%
+[22:12:04] [Worker-Main-1/INFO]: Preparing spawn area: 73%
+[22:12:04] [Worker-Main-1/INFO]: Preparing spawn area: 93%
+[22:12:04] [Server thread/INFO]: Time elapsed: 5052 ms
+[22:12:04] [Server thread/INFO]: Done (10.495s)! For help, type "help"
+[22:13:33] [Server thread/INFO]: skull[/127.62.5.236:37981] logged in with entity id 53 at (313.5, 73.0, 164.5)
+[22:13:33] [Server thread/INFO]: skull joined the game
+[22:13:38] [Server thread/INFO]: skull lost connection: Disconnected
+[22:13:38] [Server thread/INFO]: skull left the game
+[22:14:07] [Server thread/INFO]: skull[/127.62.5.236:45711] logged in with entity id 214 at (313.5, 73.0, 164.5)
+[22:14:07] [Server thread/INFO]: skull joined the game
+[22:18:55] [Server thread/INFO]: B4ckslide[/127.23.20.253:46741] logged in with entity id 1594 at (306.5, 73.0, 167.5)
+[22:18:55] [Server thread/INFO]: B4ckslide joined the game
+[22:21:26] [Server thread/INFO]: TeylorVasquez[/127.137.11.122:43587] logged in with entity id 2119 at (310.5, 73.0, 169.5)
+[22:21:26] [Server thread/INFO]: TeylorVasquez joined the game
+[22:21:32] [Server thread/INFO]: skull has made the advancement [Stone Age]
+[22:21:44] [Server thread/INFO]: B4ckslide has made the advancement [Stone Age]
