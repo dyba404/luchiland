@@ -22,3 +22,13 @@
 [00:11:02] [Server thread/INFO]: TeylorVasquez lost connection: Disconnected
 [00:11:02] [Server thread/INFO]: TeylorVasquez left the game
 [00:12:30] [Server thread/INFO]: i_am_shua7 was slain by Zombie
+[00:14:02] [Server thread/INFO]: TeylorVasquez[/127.137.11.122:35081] logged in with entity id 35819 at (619.37490767662, 62.0, 537.9107877545289)
+[00:14:02] [Server thread/INFO]: TeylorVasquez joined the game
+[00:15:49] [Server thread/INFO]: [Not Secure] <skull> -3291596129210522301
+[00:17:10] [Server thread/INFO]: [Not Secure] <B4ckslide> 604.200 64
+[00:17:17] [Server thread/INFO]: [Not Secure] <B4ckslide> 562
+[00:20:22] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=0, y=0, z=0} iz{x=313, y=76, z=159}
+[00:20:22] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=0, y=0, z=0} iz{x=312, y=76, z=159}
+[00:20:22] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=0, y=0, z=0} iz{x=313, y=76, z=159}
+[00:20:24] [Server thread/INFO]: [skull: Teleported i_am_shua7 to skull]
+[00:20:57] [Server thread/INFO]: skull has made the advancement [Ice Bucket Challenge]
