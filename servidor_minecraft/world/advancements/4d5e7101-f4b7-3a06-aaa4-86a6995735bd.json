@@ -290,7 +290,9 @@
       "minecraft:skeleton": "2025-03-08 23:32:46 +0000",
       "minecraft:witch": "2025-03-08 22:25:04 +0000",
       "minecraft:spider": "2025-03-08 23:48:11 +0000",
-      "minecraft:zombie": "2025-03-08 22:27:52 +0000"
+      "minecraft:vex": "2025-03-09 01:22:56 +0000",
+      "minecraft:zombie": "2025-03-08 22:27:52 +0000",
+      "minecraft:creeper": "2025-03-09 01:23:48 +0000"
     },
     "done": false
   },
@@ -2254,6 +2256,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-03-09 01:25:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
       "ancient_debris": "2025-03-09 01:00:15 +0000"
@@ -2299,6 +2307,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-03-09 00:54:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-03-09 01:25:41 +0000"
     },
     "done": true
   },
