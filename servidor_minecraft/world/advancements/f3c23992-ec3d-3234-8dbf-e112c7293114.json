@@ -299,6 +299,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-03-09 00:10:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-03-08 22:42:38 +0000"
@@ -695,6 +701,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "tropical_fish_bucket": "2025-03-08 23:53:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-03-08 23:07:57 +0000"
@@ -863,6 +875,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-03-08 23:43:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-03-09 00:04:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-03-08 22:21:44 +0000"
@@ -926,11 +950,19 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-03-08 23:04:04 +0000",
+      "minecraft:phantom": "2025-03-09 00:06:01 +0000",
+      "minecraft:witch": "2025-03-08 23:52:02 +0000",
       "minecraft:spider": "2025-03-08 23:04:12 +0000",
       "minecraft:zombie": "2025-03-08 22:45:24 +0000",
       "minecraft:creeper": "2025-03-08 23:06:05 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-03-09 00:10:26 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
@@ -983,6 +1015,12 @@
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-03-08 22:34:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-03-08 23:50:13 +0000"
     },
     "done": true
   },
@@ -1107,6 +1145,7 @@
       "minecraft:sparse_jungle": "2025-03-08 22:18:56 +0000",
       "minecraft:river": "2025-03-08 23:14:11 +0000",
       "minecraft:lukewarm_ocean": "2025-03-08 22:34:55 +0000",
+      "minecraft:lush_caves": "2025-03-08 23:51:42 +0000",
       "minecraft:bamboo_jungle": "2025-03-08 22:58:13 +0000",
       "minecraft:plains": "2025-03-08 22:34:50 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-03-08 22:49:45 +0000"
@@ -1213,6 +1252,8 @@
     "criteria": {
       "cooked_chicken": "2025-03-08 22:45:21 +0000",
       "rotten_flesh": "2025-03-08 22:35:11 +0000",
+      "cooked_mutton": "2025-03-09 00:09:18 +0000",
+      "glow_berries": "2025-03-08 23:50:10 +0000",
       "cooked_beef": "2025-03-08 23:19:36 +0000",
       "melon_slice": "2025-03-08 22:58:31 +0000"
     },
@@ -1398,6 +1439,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-03-08 23:50:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-03-08 22:26:23 +0000"
@@ -1419,6 +1466,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-03-08 22:41:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-03-08 23:50:13 +0000"
     },
     "done": true
   },
